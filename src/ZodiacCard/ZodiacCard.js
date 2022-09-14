@@ -5,7 +5,7 @@ export default function ZodiacCard({ name, dates }) {
     <div className="zodiac-card">
       <img alt={name} src={`${process.env.PUBLIC_URL}/Zodiac/${name}.png`} />
       <span className="name">{name}</span>
-      <span>{dates}</span>
+      <span className="dates">{dates}</span>
     </div>
   );
 }

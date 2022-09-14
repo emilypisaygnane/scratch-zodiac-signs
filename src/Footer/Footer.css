@@ -1,13 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Nanum+Myeongjo&family=Space+Mono&display=swap');
 footer {
-    color:antiquewhite;
+    color:#CECFF5;
     text-transform: uppercase;
     font-weight: bold;
     height: 40px;
-    background-color: black;
+    background-color: #25193E;
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    font-family: 'Space and Astronomy';
+    font-family: 'Nanum Myeongjo', serif;
     position: fixed;
     width: 100%;
     bottom: 0;
