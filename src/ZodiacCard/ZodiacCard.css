@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Space+Mono&display=swap');
+
+.zodiac-card {
+    width: 200px;
+    /* height: 175px; */
+    background: radial-gradient(592px at 48.2% 50%, rgba(255, 255, 249, 0.6) 0%, rgb(160, 199, 254) 74.6%);
+    margin: 10px;
+    border-radius: 10px;
+    border: rgb(160, 199, 254) inset;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    color: black;
+}
+
+.zodiac-card img {
+    width: 100px;
+}
+
+.zodiac-card .name, .dates {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Cinzel Decorative', cursive;
+}
+

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Space+Mono&display=swap');
+
+header {
+    color: #CECFF5;
+    text-transform: uppercase;
+    font-weight: bold;
+    height: 40px;
+    background-color: #25193E;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    font-family: 'Cinzel Decorative', cursive;
+}
